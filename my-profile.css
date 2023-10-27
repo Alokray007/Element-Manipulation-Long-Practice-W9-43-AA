@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+}
+
+.name {
+    color: blue;
+    padding: 5px 10px;
+}
+
+.my-details {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 10px 40px;
+    margin: 50px 50px;
+}
+
+.my-details:hover {
+    border: 2px solid red;
+    background-color: black;
+    color: #fff;
+}
+
+.div2 {
+    background: url("https://images.unsplash.com/photo-1695653422279-8a8a52ccb3cc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80") no-repeat center center/cover;
+    width: 300px;
+    height: 400px;
+    margin: 50px 100px;
+}
+
+#countDown {
+    margin: 50px 50px;
+}
